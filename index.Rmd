@@ -1,0 +1,48 @@
+---
+title: "Yimiao's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# A Quick Self Introduction
+
+Hi, this is Yimiao Pang. I'm glad that you're willing to spend a few minutes knowing more about me!
+
+I graduated from Sun Yat-sen University in China in the summer of 2021 with a B.S. degree in Pharmacy. This is a photo of me taken when I was about to graduate from SYSU. 
+
+![](image/sysu.jpg)
+
+After that, I was luckily admitted to Columbia University to study Biostatistics which I always have great passion for. Now I am a first-year student in MS program for Biostatistics Theory & Methods track and hopefully I will learn a lot of things in this great field!
+
+![](image/cu.jpg)
+
+
+# My Research Experiences
+
+## Undergraduate Innovation and Entrepreneurship Training Program
+
+When I was studying at SYSU in pharmacy, I was involved as a team leader in an Undergraduate Innovation Training Program. My team members and I read a lot of papers to design an experiment to seek a new cancer therapy by blocking the combination of lactic and GPR81, a kind of receptor in human body, and by inhibiting the cancer cells' ingestion of glucose under the interference of mannose. Unfortunately, however, our practice was hindered by the outbreak of COVID-19, which really disappointed us.
+
+## Pharmacokinetic Study of Cefuroxime in Rabbits
+
+Though frustrated due to that experience, I was still interested in pharmaceutical sciences. I studied pharmacokinetics of cefuroxime in rabbits in one of my class when I was a senior student, and that was my first chance to apply statistical methods to real-world scientific practice. I got a second highest score for that course, which really inspired me to pursue a career life in biostatistics.
+
+To know more about me:
+
+[Resume](resume.html)
+
+# My Professional Experiences
+
+## Biological Pharmacy Innovation and Entrepreneurship Training Program
+
+In the Innovation and Entrepreneurship Training Program, I attended lots of lectures and seminars and accumulated field experience at multiple research institutes and corporations such as Jiabo Pharmaceutical and SYSU Nansha Institute.
+
+## Mentoring Program of School of Pharmaceutical Sciences
+
+I tutored freshmen pharmaceutical courses and answered their question weekly.
+
+To know more about me:
+
+[Resume](resume.html)

@@ -1,0 +1,94 @@
+---
+title: "Yimiao's Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Education Background
+
+## Columbia University
+
+Sept. 2021~Present
+
+Mailman School of Public Health       M.S. in Biostatistics, Theory & Methods track (Expected in June 2023)
+
+## Sun Yat-sen University (SYSU)
+
+Aug. 2017~Jun. 2021
+
+School of Pharmaceutical Sciences       B.S. in Pharmacy
+
+GPA: 3.8/4.0
+
+### Scholarship
+
+2nd Prize of SYSU Scholarship
+
+3rd Prize of SYSU Scholarship
+
+Sungening Scholarship
+
+
+
+# Research Experiences
+
+## Pharmacokinetic Study of Cefuroxime in Rabbits
+
+Sept. 2020~Nov.2020, Advisor: Guoping ZHONG
+
+i. Took experiments on 48 rabbits divided into 6 groups by doses (low: 25mg/kg, medium: 50mg/kg and high: 100mg/kg) and administration routes (intravenous injection and intragastric administration)
+
+ii. Calculated pharmacokinetic parameters of cefuroxime in every rabbit including Tmax, Cmax, T1/2, AUC, Cl, Vd and MRT
+
+iii. Cleaned the data and used SPSS to conduct statistical analyses such as test of normality, estimation of population mean, linear regression analysis, ANOVA and rank sum test
+
+iv. Characterized the in vivo pharmacokinetic process of cefuroxime with single compartment model, two-compartment model and non-compartment model
+
+## Undergraduate Innovation and Entrepreneurship Training Program
+
+### Influence of Glucose and Lactic Acid’s Double Blocking on Colorectal Cancer’s Growth and PD-L1 Expression
+
+Dec. 2019~May 2020, Advisor: Yanfeng GAO
+
+Purpose: to seek a new cancer therapy by blocking the combination of lactic acid and GPR81 and inhibiting the cancer cells’ ingestion of glucose under the interference of mannose
+
+Research Approach: to choose two kinds of colorectal cancer cells in mice (CT26 and MC38) to conduct in vitro and in vivo experiments, and detect the lactic acid concentration, the cancer cell proliferation and PD-L1 expression
+
+Expected Result: to confirm whether endogenous molecules like alanine can be used as the blocker between lactic acid and GPR81; to learn the impact of inhibiting cancer cells’ ingestion of glucose and recognition of lactic acid on cancer cell proliferation; and to predict the synergy effect between the two aforementioned methods
+
+
+
+
+# Professional Experiences
+
+## SYSU Biological Pharmacy Innovation and Entrepreneurship Training Program
+
+Oct. 2018~Apr. 2019
+
+Attended lectures and seminars and accumulated field experience at multiple biopharmaceutical research institutes and corporations such as Jiabo Pharmaceutical, SYSU Nansha Institute and ZDVC group
+
+Won a debate on the topic “how to find a way out for the pharmaceutical industry in China, by generic drugs or innovative drugs” and earned the “Best Debater” honor
+
+## Mentoring Program of School of Pharmaceutical Sciences
+
+Sept. 2018~Dec. 2018
+
+Tutored freshmen pharmaceutical courses and answered their questions both online and offline
+
+
+# Volunteer Activities
+
+## i.
+
+Guangdong Science Center: provided tour guidance and introduction services and maintained the order in the center
+
+## ii.
+
+Hospice Care Program: accompanied the patients and their family and offered psychological counselling service
+
+## iii.
+
+Helping the Disabled Event: encouraged positive understanding and kindness to the disabled in the community

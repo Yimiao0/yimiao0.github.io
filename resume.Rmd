@@ -15,6 +15,8 @@ Sept. 2021~Present
 
 Mailman School of Public Health       M.S. in Biostatistics, Theory & Methods track (Expected in June 2023)
 
+GPA: 4.00/4.33
+
 ## Sun Yat-sen University (SYSU)
 
 Aug. 2017~Jun. 2021
@@ -35,31 +37,58 @@ Sungening Scholarship
 
 # Research Experiences
 
+## Database Design for Plastic Surgery Institute using Access and SQL *(in progress)*
+
+Jan. 2022 – Present, Advisor: Debra D’Angelo
+
+•	Designed and proposed a database to store and manage various information of patients from a plastic surgery institute
+
+•	Constructing the relational database using Microsoft Access and MySQL to store patients’ demographic data, medical and surgery details, and lookup table for postsurgical complications
+
+## Diagnosis Model Design for Breast Cancer Image Classification *(in progress)*
+
+Feb. 2022 - Present, Advisor: Dr. Ying Wei
+
+•	Building a logistic model in R using Newton-Raphson algorithm to classify the breast cancer images
+
+•	Implementing a path-wise coordinate-wise LASSO algorithm to obtain a path of solutions with a sequence of λ’s
+
+•	Conducting 5-fold cross-validation to select the best λ for the model
+
+
+## Simulations: Comparison of Two Clustering Algorithms on Non-normal Data
+
+Jan. 2022 - Feb. 2022, Advisor: Dr. Ying Wei
+
+•	Indicated suitable models for bivariate baseline, skewed, heavy-tailed data by conducting extensive investigation
+
+•	Compared two best-known clustering methods K-Means and Latent Class Analysis (LCA) on non-normal data by generating bivariate data with different cluster sizes and sample sizes using marginal and conditional distributions
+
+•	Conducted simulations on each scenario for 100 times and assessed algorithms’ accuracy with two external validation metrics Adjusted Rand Index (ARI) and Jaccard Index
+
+•	Visualized simulated results using R language with boxplots that when cluster size is large, k-means outperforms LCA in most of non-normal model except the skewed model (log-normal data)
+
+## Data Analysis and Visualization on Shooting Incidents in New York City
+
+Nov. 2021 - Dec. 2021, Advisor: Dr. Jeff Goldsmith
+
+•	Collected, cleaned, and processed raw data of shooting records from NYC Open Data using R language 
+
+•	Statistically analyzed the impact of COVID-19 on the number of shooting cases in NYC by conducting multiple linear regression and ANOVA 
+
+•	Visualized data to comprehensively reflect the trend and distributions of shooting in NYC using multiple metrics including case fluctuations across time, geographic distributions, and profiles for perpetrators and victims
+
+•	Constructed an interactive dashboard using R Shiny to lively demonstrate the density of shooting incidents, relatively safe areas, and safe time periods of the given neighborhood by inputting user’s zip code
+
 ## Pharmacokinetic Study of Cefuroxime in Rabbits
 
-Sept. 2020~Nov.2020, Advisor: Guoping ZHONG
+Sept. 2020~Nov.2020, Advisor: Dr. Guoping Zhong
 
-i. Took experiments on 48 rabbits divided into 6 groups by doses (low: 25mg/kg, medium: 50mg/kg and high: 100mg/kg) and administration routes (intravenous injection and intragastric administration)
+•	Conducted experiment on 48 rabbits by dividing into 6 groups based on doses (low: 25mg/kg, medium: 50mg/kg and high: 100mg/kg) and administration routes (intravenous injection and intragastric administration)
 
-ii. Calculated pharmacokinetic parameters of cefuroxime in every rabbit including Tmax, Cmax, T1/2, AUC, Cl, Vd and MRT
+•	Calculated pharmacokinetic parameters of cefuroxime in every rabbit including Tmax, Cmax, half-life (t1/2), AUC, Clearance, Vd and MRT
 
-iii. Cleaned the data and used SPSS to conduct statistical analyses such as test of normality, estimation of population mean, linear regression analysis, ANOVA and rank sum test
-
-iv. Characterized the in vivo pharmacokinetic process of cefuroxime with single compartment model, two-compartment model and non-compartment model
-
-## Undergraduate Innovation and Entrepreneurship Training Program
-
-### Influence of Glucose and Lactic Acid’s Double Blocking on Colorectal Cancer’s Growth and PD-L1 Expression
-
-Dec. 2019~May 2020, Advisor: Yanfeng GAO
-
-Purpose: to seek a new cancer therapy by blocking the combination of lactic acid and GPR81 and inhibiting the cancer cells’ ingestion of glucose under the interference of mannose
-
-Research Approach: to choose two kinds of colorectal cancer cells in mice (CT26 and MC38) to conduct in vitro and in vivo experiments, and detect the lactic acid concentration, the cancer cell proliferation and PD-L1 expression
-
-Expected Result: to confirm whether endogenous molecules like alanine can be used as the blocker between lactic acid and GPR81; to learn the impact of inhibiting cancer cells’ ingestion of glucose and recognition of lactic acid on cancer cell proliferation; and to predict the synergy effect between the two aforementioned methods
-
-
+•	Conducted statistical analyses using SPSS to perform test of normality, estimation of population means, linear regression analysis, ANOVA, and rank sum test
 
 
 # Professional Experiences
@@ -81,14 +110,8 @@ Tutored freshmen pharmaceutical courses and answered their questions both online
 
 # Volunteer Activities
 
-## i.
+•	Guangdong Science Center: provided tour guidance and introduction services and maintained the order in the center
 
-Guangdong Science Center: provided tour guidance and introduction services and maintained the order in the center
+•	Hospice Care Program: accompanied the patients and their family and offered psychological counselling service
 
-## ii.
-
-Hospice Care Program: accompanied the patients and their family and offered psychological counselling service
-
-## iii.
-
-Helping the Disabled Event: encouraged positive understanding and kindness to the disabled in the community
+•	Helping the Disabled Event: encouraged positive understanding and kindness to the disabled in the community

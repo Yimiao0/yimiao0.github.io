@@ -13,8 +13,8 @@
 
 <title>Yimiao’s Resume</title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -372,6 +372,7 @@ div.tocify {
 <h2>Columbia University</h2>
 <p>Sept. 2021~Present</p>
 <p>Mailman School of Public Health M.S. in Biostatistics, Theory &amp; Methods track (Expected in June 2023)</p>
+<p>GPA: 4.00/4.33</p>
 </div>
 <div id="sun-yat-sen-university-sysu" class="section level2">
 <h2>Sun Yat-sen University (SYSU)</h2>
@@ -388,25 +389,41 @@ div.tocify {
 </div>
 <div id="research-experiences" class="section level1">
 <h1>Research Experiences</h1>
+<div id="database-design-for-plastic-surgery-institute-using-access-and-sql-in-progress" class="section level2">
+<h2>Database Design for Plastic Surgery Institute using Access and SQL <em>(in progress)</em></h2>
+<p>Jan. 2022 – Present, Advisor: Debra D’Angelo</p>
+<p>• Designed and proposed a database to store and manage various information of patients from a plastic surgery institute</p>
+<p>• Constructing the relational database using Microsoft Access and MySQL to store patients’ demographic data, medical and surgery details, and lookup table for postsurgical complications</p>
+</div>
+<div id="diagnosis-model-design-for-breast-cancer-image-classification-in-progress" class="section level2">
+<h2>Diagnosis Model Design for Breast Cancer Image Classification <em>(in progress)</em></h2>
+<p>Feb. 2022 - Present, Advisor: Dr. Ying Wei</p>
+<p>• Building a logistic model in R using Newton-Raphson algorithm to classify the breast cancer images</p>
+<p>• Implementing a path-wise coordinate-wise LASSO algorithm to obtain a path of solutions with a sequence of λ’s</p>
+<p>• Conducting 5-fold cross-validation to select the best λ for the model</p>
+</div>
+<div id="simulations-comparison-of-two-clustering-algorithms-on-non-normal-data" class="section level2">
+<h2>Simulations: Comparison of Two Clustering Algorithms on Non-normal Data</h2>
+<p>Jan. 2022 - Feb. 2022, Advisor: Dr. Ying Wei</p>
+<p>• Indicated suitable models for bivariate baseline, skewed, heavy-tailed data by conducting extensive investigation</p>
+<p>• Compared two best-known clustering methods K-Means and Latent Class Analysis (LCA) on non-normal data by generating bivariate data with different cluster sizes and sample sizes using marginal and conditional distributions</p>
+<p>• Conducted simulations on each scenario for 100 times and assessed algorithms’ accuracy with two external validation metrics Adjusted Rand Index (ARI) and Jaccard Index</p>
+<p>• Visualized simulated results using R language with boxplots that when cluster size is large, k-means outperforms LCA in most of non-normal model except the skewed model (log-normal data)</p>
+</div>
+<div id="data-analysis-and-visualization-on-shooting-incidents-in-new-york-city" class="section level2">
+<h2>Data Analysis and Visualization on Shooting Incidents in New York City</h2>
+<p>Nov. 2021 - Dec. 2021, Advisor: Dr. Jeff Goldsmith</p>
+<p>• Collected, cleaned, and processed raw data of shooting records from NYC Open Data using R language</p>
+<p>• Statistically analyzed the impact of COVID-19 on the number of shooting cases in NYC by conducting multiple linear regression and ANOVA</p>
+<p>• Visualized data to comprehensively reflect the trend and distributions of shooting in NYC using multiple metrics including case fluctuations across time, geographic distributions, and profiles for perpetrators and victims</p>
+<p>• Constructed an interactive dashboard using R Shiny to lively demonstrate the density of shooting incidents, relatively safe areas, and safe time periods of the given neighborhood by inputting user’s zip code</p>
+</div>
 <div id="pharmacokinetic-study-of-cefuroxime-in-rabbits" class="section level2">
 <h2>Pharmacokinetic Study of Cefuroxime in Rabbits</h2>
-<p>Sept. 2020~Nov.2020, Advisor: Guoping ZHONG</p>
-<ol style="list-style-type: lower-roman">
-<li><p>Took experiments on 48 rabbits divided into 6 groups by doses (low: 25mg/kg, medium: 50mg/kg and high: 100mg/kg) and administration routes (intravenous injection and intragastric administration)</p></li>
-<li><p>Calculated pharmacokinetic parameters of cefuroxime in every rabbit including Tmax, Cmax, T1/2, AUC, Cl, Vd and MRT</p></li>
-<li><p>Cleaned the data and used SPSS to conduct statistical analyses such as test of normality, estimation of population mean, linear regression analysis, ANOVA and rank sum test</p></li>
-<li><p>Characterized the in vivo pharmacokinetic process of cefuroxime with single compartment model, two-compartment model and non-compartment model</p></li>
-</ol>
-</div>
-<div id="undergraduate-innovation-and-entrepreneurship-training-program" class="section level2">
-<h2>Undergraduate Innovation and Entrepreneurship Training Program</h2>
-<div id="influence-of-glucose-and-lactic-acids-double-blocking-on-colorectal-cancers-growth-and-pd-l1-expression" class="section level3">
-<h3>Influence of Glucose and Lactic Acid’s Double Blocking on Colorectal Cancer’s Growth and PD-L1 Expression</h3>
-<p>Dec. 2019~May 2020, Advisor: Yanfeng GAO</p>
-<p>Purpose: to seek a new cancer therapy by blocking the combination of lactic acid and GPR81 and inhibiting the cancer cells’ ingestion of glucose under the interference of mannose</p>
-<p>Research Approach: to choose two kinds of colorectal cancer cells in mice (CT26 and MC38) to conduct in vitro and in vivo experiments, and detect the lactic acid concentration, the cancer cell proliferation and PD-L1 expression</p>
-<p>Expected Result: to confirm whether endogenous molecules like alanine can be used as the blocker between lactic acid and GPR81; to learn the impact of inhibiting cancer cells’ ingestion of glucose and recognition of lactic acid on cancer cell proliferation; and to predict the synergy effect between the two aforementioned methods</p>
-</div>
+<p>Sept. 2020~Nov.2020, Advisor: Dr. Guoping Zhong</p>
+<p>• Conducted experiment on 48 rabbits by dividing into 6 groups based on doses (low: 25mg/kg, medium: 50mg/kg and high: 100mg/kg) and administration routes (intravenous injection and intragastric administration)</p>
+<p>• Calculated pharmacokinetic parameters of cefuroxime in every rabbit including Tmax, Cmax, half-life (t1/2), AUC, Clearance, Vd and MRT</p>
+<p>• Conducted statistical analyses using SPSS to perform test of normality, estimation of population means, linear regression analysis, ANOVA, and rank sum test</p>
 </div>
 </div>
 <div id="professional-experiences" class="section level1">
@@ -425,18 +442,9 @@ div.tocify {
 </div>
 <div id="volunteer-activities" class="section level1">
 <h1>Volunteer Activities</h1>
-<div id="i." class="section level2">
-<h2>i.</h2>
-<p>Guangdong Science Center: provided tour guidance and introduction services and maintained the order in the center</p>
-</div>
-<div id="ii." class="section level2">
-<h2>ii.</h2>
-<p>Hospice Care Program: accompanied the patients and their family and offered psychological counselling service</p>
-</div>
-<div id="iii." class="section level2">
-<h2>iii.</h2>
-<p>Helping the Disabled Event: encouraged positive understanding and kindness to the disabled in the community</p>
-</div>
+<p>• Guangdong Science Center: provided tour guidance and introduction services and maintained the order in the center</p>
+<p>• Hospice Care Program: accompanied the patients and their family and offered psychological counselling service</p>
+<p>• Helping the Disabled Event: encouraged positive understanding and kindness to the disabled in the community</p>
 </div>
 
 
